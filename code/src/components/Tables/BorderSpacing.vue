@@ -1,0 +1,20 @@
+<template>
+  <table border class="border-spacing-2">
+    <thead>
+      <tr>
+        <td>num</td>
+        <td>chinese</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1</td>
+        <td>一</td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td>二</td>
+      </tr>
+    </tbody>
+  </table>
+</template>

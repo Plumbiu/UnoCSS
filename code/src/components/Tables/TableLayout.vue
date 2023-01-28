@@ -1,0 +1,20 @@
+<template>
+  <table border class="w-1/2 table-fixed">
+    <thead>
+      <tr>
+        <td>num</td>
+        <td>chinese</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>111111111111111111111111111111111111111111111111111</td>
+        <td>一一一一一一一一一一一一一一</td>
+      </tr>
+      <tr>
+        <td>222222222222222222222222222222222222222222222222222</td>
+        <td>二二二二二二二二二二二二二二</td>
+      </tr>
+    </tbody>
+  </table>
+</template>

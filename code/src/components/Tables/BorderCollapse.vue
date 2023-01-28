@@ -1,0 +1,54 @@
+<template>
+  <table border class="w-full border-collapse">
+    <thead>
+      <tr>
+        <td>num</td>
+        <td>chinese</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1</td>
+        <td>一</td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td>二</td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td>三</td>
+      </tr>
+      <tr>
+        <td>4</td>
+        <td>一</td>
+      </tr>
+    </tbody>
+  </table>
+  <table border class="border-separate">
+    <thead>
+      <tr>
+        <td>num</td>
+        <td>chinese</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1</td>
+        <td>一</td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td>二</td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td>三</td>
+      </tr>
+      <tr>
+        <td>4</td>
+        <td>一</td>
+      </tr>
+    </tbody>
+  </table>
+</template>
